@@ -4,16 +4,9 @@ This repository contains a comprehensive machine learning pipeline built with Py
 
 ## A little about the dataset used:
 
-The Iris dataset is a classic dataset in machine learning, often used for classification tasks. It contains 150 samples of iris flowers, each with 4 features:
-Sepal length
-Sepal width
-Petal length
-Petal width
+The Iris dataset is a classic dataset in machine learning, often used for classification tasks. It contains 150 samples of iris flowers, each with 4 features: Sepal length, Sepal width, Petal length and Petal width.
 
-These features are used to classify the flowers into 3 species:
-Setosa
-Versicolor
-Virginica
+These features are used to classify the flowers into 3 species: Setosa, Versicolor and Virginica.
 
 The dataset is balanced, with 50 samples for each species. It’s included in the scikit-learn library and can be easily accessed using the load_iris() function.
 The goal is typically to predict the species of an iris flower based on its features.
