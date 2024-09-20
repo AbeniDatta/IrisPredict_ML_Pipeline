@@ -23,6 +23,6 @@ The goal is typically to predict the species of an iris flower based on its feat
 
 ## Visualizing Our Pipeline
 
-<img width="662" alt="Screenshot 2024-09-19 at 11 31 23 PM" src="https://github.com/user-attachments/assets/cf07cc9d-6da7-45d7-8ea9-2986409bbd0a">
-
 <img width="415" alt="Screenshot 2024-09-19 at 11 30 57 PM" src="https://github.com/user-attachments/assets/b2a89589-ed4b-46a3-9813-a21626a5540e">
+
+<img width="662" alt="Screenshot 2024-09-19 at 11 31 23 PM" src="https://github.com/user-attachments/assets/cf07cc9d-6da7-45d7-8ea9-2986409bbd0a">
