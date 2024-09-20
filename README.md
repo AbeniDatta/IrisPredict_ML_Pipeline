@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive machine learning pipeline built with Python, leveraging popular libraries such as scikit-learn and pandas. The pipeline demonstrates the full process of data loading, preprocessing, model training, evaluation, prediction and visualization using various classification algorithms.
 
-Features:
+## Features:
 1. Data Preprocessing: Implements feature scaling using StandardScaler to standardize data.
 2. Model Selection: Supports multiple models - Logistic Regression and K-Nearest Neighbors (KNN). 
 3. Voting Classifier: Combines multiple models using soft voting to improve classification accuracy.
