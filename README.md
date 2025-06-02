@@ -1,8 +1,6 @@
 # Machine Learning Pipeline for the "load_iris" dataset available in the scikit-learn datasets module 
 
-A comprehensive machine learning pipeline that I built with Python on Jupyter Notebook, leveraging popular libraries such as scikit-learn and pandas. 
-
-The pipeline demonstrates the full process of data loading, preprocessing, model training, evaluation, prediction and visualization using various classification algorithms.
+This repository contains a comprehensive machine learning pipeline built with Python, leveraging popular libraries such as scikit-learn and pandas. The pipeline demonstrates the full process of data loading, preprocessing, model training, prediction and visualization using various classification algorithms.
 
 ## A little about the dataset used:
 
