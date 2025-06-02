@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive machine learning pipeline built with Python, leveraging popular libraries such as scikit-learn and pandas. The pipeline demonstrates the full process of data loading, preprocessing, model training, prediction and visualization using various classification algorithms.
 
-## A little about the dataset used:
+## About the dataset used:
 
 The Iris dataset is a classic dataset in machine learning, often used for classification tasks. It contains 150 samples of iris flowers, each with 4 features:
 Sepal length, Sepal width, Petal length and Petal width.
